@@ -14,6 +14,8 @@ Je arduino zal je dus moeten programeren om ervoor te zorgen dat de RGB LED een 
 
 Je mag het spel verder uitbreiden hoe je zelf wil.
 
+![board example](./readmeAssets/boardExample.png)
+
 # In te vullen
 
 ## Eigen informatie
